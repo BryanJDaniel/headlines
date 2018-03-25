@@ -12,10 +12,10 @@ import datetime
 import urllib
 ##
 #server
-# import urllib2
+import urllib2
 #local
-import urllib.request
-import urllib.parse
+# import urllib.request
+# import urllib.parse
 ##
 
 app = Flask(__name__)
